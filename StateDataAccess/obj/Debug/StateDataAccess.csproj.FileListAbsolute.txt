@@ -1,0 +1,11 @@
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\StateInfo.accdb
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\StateDataAccess.dll.config
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\StateDataAccess.dll
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\StateDataAccess.pdb
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\System.Data.OleDb.dll
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\bin\Debug\System.Data.OleDb.xml
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\obj\Debug\StateDataAccess.csproj.AssemblyReference.cache
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\obj\Debug\StateDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\obj\Debug\StateDataAccess.csproj.CopyComplete
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\obj\Debug\StateDataAccess.dll
+C:\Users\ThayGuyEjay\source\repos\StateDataAccess\obj\Debug\StateDataAccess.pdb
