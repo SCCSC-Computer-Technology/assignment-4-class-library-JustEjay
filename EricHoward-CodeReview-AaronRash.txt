@@ -1,0 +1,16 @@
+Eric Howard code review by Aaron Rash
+
+Thank you for the very thorough commenting on this project. I greatly appreciate it.
+
+The logic/syntax is correct, and there are no issues I'm aware of.
+I do think it can be shortened/modularized however.
+
+Each Datatable method (sortByStatesAsc, sortByPopulation, etc) creates a new OleDbCommand, and then uses the same 4 lines of code to execute it basically.
+I dont have quite enough time to test it, but I'm fairly certain you could pull those lines out into a new method. Lets say we name it 'executeCommand'
+Then you can call 'executeCommand' from your Datatable methods.
+That way, you would shorten the code, while keeping it nice and readable.
+
+Also I am so glad I reviewed this code, because you implement a solution I was stuck on for ages and had given up on.
+I was using OleDbDataAdapters in one of my assignments as well and had been running into some problems, so I feel like I learned something useful from this.
+
+Nice work.
