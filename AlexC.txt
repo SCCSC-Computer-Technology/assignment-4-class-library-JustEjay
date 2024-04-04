@@ -1,0 +1,4 @@
+ It's a good idea to implement error handling to catch and handle any exceptions that may occur during database operations. This will make your code more robust and help in diagnosing issues. 
+Your code has comments which is great for understanding what each part of the code does. Just ensure that comments are concise and explain the intent of the code. Also, consider adding comments for complex queries or 
+logic to aid understanding for future maintainers. You're already using parameterized queries for most operations, which is good practice as it helps prevent SQL injection attacks. However, in your searchState method, 
+you've used a parameter placeholder ? instead of named parameters like @StateName.
